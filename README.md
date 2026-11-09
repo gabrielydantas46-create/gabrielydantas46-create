@@ -64,6 +64,15 @@ Utilizo este espaço para compartilhar meus projetos acadêmicos, exercícios pr
 
 ## 📫 Vamos nos conectar?
 
+Para criar o meu perfil, procurei vários perfis de desenvolvedores e neles percebi que consegui conhecer melhor como outras pessoas organizam seus trabalhos e apresentam seus conhecimentos na área de tecnologia. Percebi que uma boa apresentação, projetos bem organizados e READMEs explicativos fazem bastante diferença.
+
+Gostei principalmente da forma como alguns profissionais destacam seus melhores projetos e mostram as tecnologias que utilizam. Isso me fez perceber que o GitHub não serve apenas para guardar códigos, mas também para mostrar o que estamos aprendendo e desenvolvendo.
+
+Com essa pesquisa, pretendo melhorar meu próprio perfil, deixando-o mais organizado e profissional. Quero destacar meus projetos da faculdade, apresentar as linguagens que estou estudando e mostrar minha evolução como estudante de Ciência da Computação. Acredito que essas mudanças podem me ajudar a construir um bom portfólio para futuras oportunidades de estágio e emprego
+
+---
+Contatos:
+
 GitHub: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielydantas46-create)
 
 Gmail: Gabrielydantas46@gmail.com
