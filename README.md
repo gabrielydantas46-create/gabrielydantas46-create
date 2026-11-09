@@ -50,8 +50,6 @@ Utilizo este espaço para compartilhar meus projetos acadêmicos, exercícios pr
 - Modelagem e consultas em bancos de dados MySQL.
 - Trabalhos acadêmicos de Ciência da Computação.
 
-*Os links dos projetos serão adicionados conforme forem publicados e documentados.*
-
 ---
 
 ## 🎯 Objetivos profissionais
@@ -66,16 +64,9 @@ Utilizo este espaço para compartilhar meus projetos acadêmicos, exercícios pr
 
 ## 📫 Vamos nos conectar?
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielydantas46-create)
+GitHub: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielydantas46-create)
 
-<!-- Substitua os campos abaixo pelos seus contatos reais -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](COLOQUE_AQUI_SEU_LINKEDIN)
-
-📧 **E-mail:** COLOQUE_AQUI_SEU_EMAIL_PROFISSIONAL
-
----
-
+Linkedin: https://www.linkedin.com/in/gabriely-dantas-42822a376?utm_source=share_via&utm_content=profile&utm_medium=member_android
 ⭐ Obrigada por visitar meu perfil!
 
 *Em constante aprendizado e evolução na tecnologia.*
